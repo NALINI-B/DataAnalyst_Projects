@@ -1,0 +1,449 @@
+country,date,External Debt to GDP
+Brazil,2023,
+Brazil,2022,31.1117018971197
+Brazil,2021,35.7750707847234
+Brazil,2020,38.0056856937869
+Brazil,2019,31.1964144591405
+Brazil,2018,29.9289604201936
+Brazil,2017,26.8156664563017
+Brazil,2016,30.9090873502902
+Brazil,2015,30.7299282819868
+Brazil,2014,23.1060429665359
+Brazil,2013,19.8377244696815
+Brazil,2012,18.3256247175724
+Brazil,2011,15.8516033315084
+Brazil,2010,16.4609633883192
+Brazil,2009,17.2780448185263
+Brazil,2008,15.895646208226
+Brazil,2007,17.4373059268587
+Brazil,2006,17.9925275363162
+Brazil,2005,21.7546275711234
+Brazil,2004,33.9781537953332
+Brazil,2003,43.6447539570516
+Brazil,2002,47.0768538372546
+Brazil,2001,42.4435005758245
+Brazil,2000,38.096473476996
+Brazil,1999,42.1767806671039
+Brazil,1998,28.6093884024265
+Brazil,1997,22.9073572977231
+Brazil,1996,21.6665361778305
+Brazil,1995,21.2189844098868
+Brazil,1994,29.1112305958678
+Brazil,1993,33.8140310461276
+Brazil,1992,33.8017770320511
+Brazil,1991,30.4705742787994
+Brazil,1990,26.7554903586794
+Brazil,1989,25.6249250355511
+Brazil,1988,
+Brazil,1987,
+Brazil,1986,
+Brazil,1985,
+Brazil,1984,
+Brazil,1983,
+Brazil,1982,
+Brazil,1981,
+Brazil,1980,
+Brazil,1979,
+Brazil,1978,
+Brazil,1977,
+Brazil,1976,
+Brazil,1975,
+Brazil,1974,
+Brazil,1973,
+Brazil,1972,
+Brazil,1971,
+Brazil,1970,
+Brazil,1969,
+Brazil,1968,
+Brazil,1967,
+Brazil,1966,
+Brazil,1965,
+Brazil,1964,
+Brazil,1963,
+Brazil,1962,
+Brazil,1961,
+Brazil,1960,
+China,2023,
+China,2022,13.4419126997382
+China,2021,15.2701199164747
+China,2020,15.9657544045588
+China,2019,14.8466857677962
+China,2018,14.1794107920524
+China,2017,13.9154855194426
+China,2016,12.6494291598251
+China,2015,12.115490652519
+China,2014,16.9548419227709
+China,2013,15.5960421325697
+China,2012,13.4881901595901
+China,2011,14.0915092087263
+China,2010,12.2541297504457
+China,2009,8.92364851881412
+China,2008,8.35888541387116
+China,2007,10.6157965344314
+China,2006,11.8828661327268
+China,2005,12.5936393579162
+China,2004,12.6836881507387
+China,2003,12.555921612995
+China,2002,12.7414236672735
+China,2001,13.9608819416316
+China,2000,12.1927786705436
+China,1999,13.7860172313709
+China,1998,14.2445719528867
+China,1997,15.4539112920521
+China,1996,15.1574272855059
+China,1995,16.3709662485804
+China,1994,17.8714515338174
+China,1993,13.9347456125926
+China,1992,14.7022915448934
+China,1991,14.5477889400006
+China,1990,13.9783897253517
+China,1989,9.84242837064935
+China,1988,10.4097761682443
+China,1987,10.8113472275795
+China,1986,7.8935142061853
+China,1985,5.37510874117939
+China,1984,3.83450491101869
+China,1983,3.14203333215619
+China,1982,2.94049625246561
+China,1981,2.00309066646394
+China,1980,
+China,1979,
+China,1978,
+China,1977,
+China,1976,
+China,1975,
+China,1974,
+China,1973,
+China,1972,
+China,1971,
+China,1970,
+China,1969,
+China,1968,
+China,1967,
+China,1966,
+China,1965,
+China,1964,
+China,1963,
+China,1962,
+China,1961,
+China,1960,
+India,2023,
+India,2022,18.4230765466735
+India,2021,19.8230119664583
+India,2020,21.4359238508865
+India,2019,19.9766366353173
+India,2018,19.4905310721058
+India,2017,19.5049373712604
+India,2016,20.0812235448575
+India,2015,23.0297689509896
+India,2014,22.7049198425766
+India,2013,23.3008757771863
+India,2012,21.7351878661413
+India,2011,18.5055609944035
+India,2010,17.520327243228
+India,2009,19.2155611185983
+India,2008,19.0572058938661
+India,2007,16.8414102457773
+India,2006,17.0996791242773
+India,2005,14.8800533757421
+India,2004,17.5589283983963
+India,2003,19.7092213379721
+India,2002,20.6732475500878
+India,2001,20.6760606582492
+India,2000,21.8229075342518
+India,1999,21.9170633132103
+India,1998,23.5364642994774
+India,1997,22.8125471917776
+India,1996,24.1426536681275
+India,1995,26.3321749588569
+India,1994,30.2989741855664
+India,1993,33.157477335464
+India,1992,30.9287372170104
+India,1991,31.8999260564656
+India,1990,26.3503860119686
+India,1989,25.1949473573329
+India,1988,20.2016135814387
+India,1987,19.2859862568476
+India,1986,18.1397801866249
+India,1985,16.8298476091414
+India,1984,15.5309114795427
+India,1983,14.1016587725392
+India,1982,13.4675820923942
+India,1981,11.6154387844499
+India,1980,11.0961065452754
+India,1979,11.8750848063808
+India,1978,12.0488845908307
+India,1977,12.7168401804502
+India,1976,14.2366681694855
+India,1975,14.1229173890864
+India,1974,12.8043772650601
+India,1973,12.8856255776752
+India,1972,14.1113138585024
+India,1971,13.9317391661706
+India,1970,13.5793083177093
+India,1969,
+India,1968,
+India,1967,
+India,1966,
+India,1965,
+India,1964,
+India,1963,
+India,1962,
+India,1961,
+India,1960,
+Japan,2023,
+Japan,2022,
+Japan,2021,
+Japan,2020,
+Japan,2019,
+Japan,2018,
+Japan,2017,
+Japan,2016,
+Japan,2015,
+Japan,2014,
+Japan,2013,
+Japan,2012,
+Japan,2011,
+Japan,2010,
+Japan,2009,
+Japan,2008,
+Japan,2007,
+Japan,2006,
+Japan,2005,
+Japan,2004,
+Japan,2003,
+Japan,2002,
+Japan,2001,
+Japan,2000,
+Japan,1999,
+Japan,1998,
+Japan,1997,
+Japan,1996,
+Japan,1995,
+Japan,1994,
+Japan,1993,
+Japan,1992,
+Japan,1991,
+Japan,1990,
+Japan,1989,
+Japan,1988,
+Japan,1987,
+Japan,1986,
+Japan,1985,
+Japan,1984,
+Japan,1983,
+Japan,1982,
+Japan,1981,
+Japan,1980,
+Japan,1979,
+Japan,1978,
+Japan,1977,
+Japan,1976,
+Japan,1975,
+Japan,1974,
+Japan,1973,
+Japan,1972,
+Japan,1971,
+Japan,1970,
+Japan,1969,
+Japan,1968,
+Japan,1967,
+Japan,1966,
+Japan,1965,
+Japan,1964,
+Japan,1963,
+Japan,1962,
+Japan,1961,
+Japan,1960,
+Russian Federation,2023,
+Russian Federation,2022,17.1484707782721
+Russian Federation,2021,26.3205512084767
+Russian Federation,2020,31.6125813357188
+Russian Federation,2019,29.6288705998786
+Russian Federation,2018,29.548796109
+Russian Federation,2017,33.8872742360339
+Russian Federation,2016,43.1184713428485
+Russian Federation,2015,37.125952762227
+Russian Federation,2014,27.8421875364677
+Russian Federation,2013,30.2102878450986
+Russian Federation,2012,27.6477290740837
+Russian Federation,2011,27.4162213475377
+Russian Federation,2010,28.2773715301649
+Russian Federation,2009,34.3613166173345
+Russian Federation,2008,25.9737563112073
+Russian Federation,2007,32.7591854997396
+Russian Federation,2006,32.3865885396895
+Russian Federation,2005,33.5124776049074
+Russian Federation,2004,37.044289752436
+Russian Federation,2003,44.5626607613604
+Russian Federation,2002,40.8533394581356
+Russian Federation,2001,46.6826951160993
+Russian Federation,2000,57.9764384368627
+Russian Federation,1999,95.6702724203279
+Russian Federation,1998,67.8018769206859
+Russian Federation,1997,32.3401786460413
+Russian Federation,1996,32.8834236780997
+Russian Federation,1995,31.1283376666771
+Russian Federation,1994,31.1174870010575
+Russian Federation,1993,26.1163148011452
+Russian Federation,1992,17.4798552537527
+Russian Federation,1991,
+Russian Federation,1990,
+Russian Federation,1989,
+Russian Federation,1988,
+Russian Federation,1987,
+Russian Federation,1986,
+Russian Federation,1985,
+Russian Federation,1984,
+Russian Federation,1983,
+Russian Federation,1982,
+Russian Federation,1981,
+Russian Federation,1980,
+Russian Federation,1979,
+Russian Federation,1978,
+Russian Federation,1977,
+Russian Federation,1976,
+Russian Federation,1975,
+Russian Federation,1974,
+Russian Federation,1973,
+Russian Federation,1972,
+Russian Federation,1971,
+Russian Federation,1970,
+Russian Federation,1969,
+Russian Federation,1968,
+Russian Federation,1967,
+Russian Federation,1966,
+Russian Federation,1965,
+Russian Federation,1964,
+Russian Federation,1963,
+Russian Federation,1962,
+Russian Federation,1961,
+Russian Federation,1960,
+United States,2023,
+United States,2022,
+United States,2021,
+United States,2020,
+United States,2019,
+United States,2018,
+United States,2017,
+United States,2016,
+United States,2015,
+United States,2014,
+United States,2013,
+United States,2012,
+United States,2011,
+United States,2010,
+United States,2009,
+United States,2008,
+United States,2007,
+United States,2006,
+United States,2005,
+United States,2004,
+United States,2003,
+United States,2002,
+United States,2001,
+United States,2000,
+United States,1999,
+United States,1998,
+United States,1997,
+United States,1996,
+United States,1995,
+United States,1994,
+United States,1993,
+United States,1992,
+United States,1991,
+United States,1990,
+United States,1989,
+United States,1988,
+United States,1987,
+United States,1986,
+United States,1985,
+United States,1984,
+United States,1983,
+United States,1982,
+United States,1981,
+United States,1980,
+United States,1979,
+United States,1978,
+United States,1977,
+United States,1976,
+United States,1975,
+United States,1974,
+United States,1973,
+United States,1972,
+United States,1971,
+United States,1970,
+United States,1969,
+United States,1968,
+United States,1967,
+United States,1966,
+United States,1965,
+United States,1964,
+United States,1963,
+United States,1962,
+United States,1961,
+United States,1960,
+South Africa,2023,
+South Africa,2022,43.3792434144384
+South Africa,2021,41.1168746672165
+South Africa,2020,52.7323468977475
+South Africa,2019,50.2455129135251
+South Africa,2018,45.7386176540485
+South Africa,2017,47.189634345937
+South Africa,2016,45.6869077355498
+South Africa,2015,37.7078002750993
+South Africa,2014,40.1667158742941
+South Africa,2013,36.2068137000957
+South Africa,2012,34.9360348114713
+South Africa,2011,27.7414231921247
+South Africa,2010,28.1800559318895
+South Africa,2009,26.112601001907
+South Africa,2008,24.1786295037814
+South Africa,2007,22.519077312783
+South Africa,2006,19.3968431263798
+South Africa,2005,15.8817076026059
+South Africa,2004,17.499891670399
+South Africa,2003,20.8473533430208
+South Africa,2002,27.7913348185499
+South Africa,2001,19.5001299531834
+South Africa,2000,17.9488438094943
+South Africa,1999,17.3421004881215
+South Africa,1998,17.3639916238851
+South Africa,1997,18.4812481915831
+South Africa,1996,16.2687611496114
+South Africa,1995,15.0170695489257
+South Africa,1994,14.3430112992824
+South Africa,1993,
+South Africa,1992,
+South Africa,1991,
+South Africa,1990,
+South Africa,1989,
+South Africa,1988,
+South Africa,1987,
+South Africa,1986,
+South Africa,1985,
+South Africa,1984,
+South Africa,1983,
+South Africa,1982,
+South Africa,1981,
+South Africa,1980,
+South Africa,1979,
+South Africa,1978,
+South Africa,1977,
+South Africa,1976,
+South Africa,1975,
+South Africa,1974,
+South Africa,1973,
+South Africa,1972,
+South Africa,1971,
+South Africa,1970,
+South Africa,1969,
+South Africa,1968,
+South Africa,1967,
+South Africa,1966,
+South Africa,1965,
+South Africa,1964,
+South Africa,1963,
+South Africa,1962,
+South Africa,1961,
+South Africa,1960,
